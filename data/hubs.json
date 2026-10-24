@@ -1,0 +1,692 @@
+[
+ {
+  "id": "mitwpu",
+  "n": "MIT-WPU",
+  "full": "MIT World Peace University",
+  "t": "College",
+  "lat": 18.51837,
+  "lng": 73.81539,
+  "a": [
+   "mit wpu",
+   "mitwpu",
+   "mit-wpu",
+   "mit kothrud",
+   "world peace university",
+   "mit college"
+  ]
+ },
+ {
+  "id": "coep",
+  "n": "COEP",
+  "full": "COEP Technological University",
+  "t": "College",
+  "lat": 18.53068,
+  "lng": 73.85725,
+  "a": [
+   "coep",
+   "college of engineering pune",
+   "coep tech"
+  ]
+ },
+ {
+  "id": "fergusson",
+  "n": "Fergusson College",
+  "full": "Fergusson College",
+  "t": "College",
+  "lat": 18.52284,
+  "lng": 73.83897,
+  "a": [
+   "fergusson",
+   "fc college",
+   "fc road college"
+  ]
+ },
+ {
+  "id": "sppu",
+  "n": "Pune University (SPPU)",
+  "full": "Savitribai Phule Pune University",
+  "t": "College",
+  "lat": 18.55308,
+  "lng": 73.82459,
+  "a": [
+   "sppu",
+   "pune university",
+   "unipune",
+   "savitribai phule",
+   "university of pune"
+  ]
+ },
+ {
+  "id": "symb-sb",
+  "n": "Symbiosis, SB Road",
+  "full": "Symbiosis College of Arts & Commerce",
+  "t": "College",
+  "lat": 18.52238,
+  "lng": 73.82985,
+  "a": [
+   "symbiosis",
+   "scac",
+   "symbiosis sb road",
+   "senapati bapat road"
+  ]
+ },
+ {
+  "id": "symb-vn",
+  "n": "Symbiosis, Viman Nagar",
+  "full": "Symbiosis Viman Nagar campus",
+  "t": "College",
+  "lat": 18.56593,
+  "lng": 73.90738,
+  "a": [
+   "symbiosis viman nagar",
+   "scms",
+   "sibm"
+  ]
+ },
+ {
+  "id": "bv",
+  "n": "Bharati Vidyapeeth",
+  "full": "Bharati Vidyapeeth, Dhankawadi",
+  "t": "College",
+  "lat": 18.4584,
+  "lng": 73.85555,
+  "a": [
+   "bharati vidyapeeth",
+   "bvp",
+   "dhankawadi"
+  ]
+ },
+ {
+  "id": "vit",
+  "n": "VIT Bibwewadi",
+  "full": "Vishwakarma Institute of Technology",
+  "t": "College",
+  "lat": 18.46362,
+  "lng": 73.8682,
+  "a": [
+   "vit",
+   "vishwakarma",
+   "vit pune",
+   "bibwewadi"
+  ]
+ },
+ {
+  "id": "pict",
+  "n": "PICT",
+  "full": "Pune Institute of Computer Technology",
+  "t": "College",
+  "lat": 18.45754,
+  "lng": 73.85083,
+  "a": [
+   "pict",
+   "pune institute of computer technology"
+  ]
+ },
+ {
+  "id": "dyp",
+  "n": "DY Patil, Pimpri",
+  "full": "Dr. D. Y. Patil Vidyapeeth",
+  "t": "College",
+  "lat": 18.62456,
+  "lng": 73.82224,
+  "a": [
+   "dy patil",
+   "dypatil",
+   "d y patil",
+   "dpu"
+  ]
+ },
+ {
+  "id": "sinhgad",
+  "n": "Sinhgad College, Vadgaon",
+  "full": "Sinhgad College of Engineering",
+  "t": "College",
+  "lat": 18.46634,
+  "lng": 73.83639,
+  "a": [
+   "sinhgad college",
+   "scoe",
+   "vadgaon"
+  ]
+ },
+ {
+  "id": "cummins",
+  "n": "Cummins College",
+  "full": "Cummins College of Engineering for Women",
+  "t": "College",
+  "lat": 18.4861,
+  "lng": 73.81625,
+  "a": [
+   "cummins",
+   "mkssss",
+   "karve nagar college"
+  ]
+ },
+ {
+  "id": "bmcc",
+  "n": "BMCC",
+  "full": "Brihan Maharashtra College of Commerce",
+  "t": "College",
+  "lat": 18.52141,
+  "lng": 73.83514,
+  "a": [
+   "bmcc",
+   "brihan maharashtra"
+  ]
+ },
+ {
+  "id": "hinjewadi",
+  "n": "Hinjewadi IT Park",
+  "full": "Rajiv Gandhi Infotech Park, Phase 1",
+  "t": "IT park",
+  "lat": 18.59048,
+  "lng": 73.72719,
+  "a": [
+   "hinjewadi",
+   "hinjawadi",
+   "infotech park",
+   "phase 1",
+   "rajiv gandhi infotech"
+  ]
+ },
+ {
+  "id": "magarpatta",
+  "n": "Magarpatta City",
+  "full": "Magarpatta City",
+  "t": "IT park",
+  "lat": 18.51581,
+  "lng": 73.92716,
+  "a": [
+   "magarpatta",
+   "cybercity"
+  ]
+ },
+ {
+  "id": "eon",
+  "n": "EON IT Park, Kharadi",
+  "full": "EON Free Zone",
+  "t": "IT park",
+  "lat": 18.55106,
+  "lng": 73.95086,
+  "a": [
+   "eon",
+   "eon it park",
+   "eon free zone"
+  ]
+ },
+ {
+  "id": "wtc",
+  "n": "World Trade Center Pune",
+  "full": "World Trade Center, Kharadi",
+  "t": "IT park",
+  "lat": 18.5523,
+  "lng": 73.9481,
+  "a": [
+   "wtc",
+   "world trade center",
+   "world trade centre"
+  ]
+ },
+ {
+  "id": "commerzone",
+  "n": "Commerzone, Yerawada",
+  "full": "Commerzone IT Park",
+  "t": "IT park",
+  "lat": 18.56029,
+  "lng": 73.88381,
+  "a": [
+   "commerzone",
+   "yerwada it park"
+  ]
+ },
+ {
+  "id": "bhs",
+  "n": "Balewadi High Street",
+  "full": "Balewadi High Street",
+  "t": "Hangout",
+  "lat": 18.56866,
+  "lng": 73.77529,
+  "a": [
+   "balewadi high street",
+   "bhs",
+   "balewadi"
+  ]
+ },
+ {
+  "id": "seasons",
+  "n": "Seasons Mall",
+  "full": "Seasons Mall, Magarpatta",
+  "t": "Mall",
+  "lat": 18.51871,
+  "lng": 73.9318,
+  "a": [
+   "seasons mall",
+   "seasons"
+  ]
+ },
+ {
+  "id": "amanora",
+  "n": "Amanora Mall",
+  "full": "Amanora Mall, Hadapsar",
+  "t": "Mall",
+  "lat": 18.51853,
+  "lng": 73.93509,
+  "a": [
+   "amanora"
+  ]
+ },
+ {
+  "id": "pavillion",
+  "n": "The Pavillion Mall",
+  "full": "The Pavillion, SB Road",
+  "t": "Mall",
+  "lat": 18.53364,
+  "lng": 73.82962,
+  "a": [
+   "pavillion",
+   "pavilion mall",
+   "jw marriott"
+  ]
+ },
+ {
+  "id": "westend",
+  "n": "Westend Mall, Aundh",
+  "full": "Westend Mall",
+  "t": "Mall",
+  "lat": 18.56169,
+  "lng": 73.80717,
+  "a": [
+   "westend",
+   "west end mall"
+  ]
+ },
+ {
+  "id": "pmom",
+  "n": "Phoenix Mall of the Millennium",
+  "full": "Phoenix Mall of the Millennium, Wakad",
+  "t": "Mall",
+  "lat": 18.59978,
+  "lng": 73.75716,
+  "a": [
+   "mall of the millennium",
+   "phoenix wakad",
+   "pmom"
+  ]
+ },
+ {
+  "id": "phoenix",
+  "n": "Phoenix Marketcity",
+  "full": "Phoenix Marketcity, Viman Nagar",
+  "t": "Mall",
+  "lat": 18.5623,
+  "lng": 73.9166,
+  "a": [
+   "phoenix marketcity",
+   "phoenix viman nagar",
+   "pmc mall"
+  ]
+ },
+ {
+  "id": "airport",
+  "n": "Pune Airport",
+  "full": "Pune International Airport, Lohegaon",
+  "t": "Transport",
+  "lat": 18.57934,
+  "lng": 73.90892,
+  "a": [
+   "airport",
+   "lohegaon",
+   "pune airport"
+  ]
+ },
+ {
+  "id": "swargate-st",
+  "n": "Swargate Bus Stand",
+  "full": "Swargate ST Stand",
+  "t": "Transport",
+  "lat": 18.49893,
+  "lng": 73.85886,
+  "a": [
+   "swargate bus stand",
+   "swargate st stand",
+   "st stand"
+  ]
+ },
+ {
+  "id": "shivajinagar-st",
+  "n": "Shivajinagar Bus Stand",
+  "full": "Shivajinagar Bus Stand",
+  "t": "Transport",
+  "lat": 18.53352,
+  "lng": 73.84903,
+  "a": [
+   "shivajinagar bus stand",
+   "shivajinagar st"
+  ]
+ },
+ {
+  "id": "zoo",
+  "n": "Katraj Zoo",
+  "full": "Rajiv Gandhi Zoological Park",
+  "t": "Attraction",
+  "lat": 18.45425,
+  "lng": 73.85985,
+  "a": [
+   "katraj zoo",
+   "zoo",
+   "rajiv gandhi zoological",
+   "snake park"
+  ]
+ },
+ {
+  "id": "pashan",
+  "n": "Pashan Lake",
+  "full": "Pashan Lake",
+  "t": "Attraction",
+  "lat": 18.5344,
+  "lng": 73.78529,
+  "a": [
+   "pashan lake",
+   "pashan"
+  ]
+ },
+ {
+  "id": "empress",
+  "n": "Empress Garden",
+  "full": "Empress Botanical Garden",
+  "t": "Attraction",
+  "lat": 18.5126,
+  "lng": 73.8985,
+  "a": [
+   "empress garden",
+   "botanical garden"
+  ]
+ },
+ {
+  "id": "kp",
+  "n": "Koregaon Park",
+  "full": "Koregaon Park",
+  "t": "Neighbourhood",
+  "lat": 18.53952,
+  "lng": 73.89457,
+  "a": [
+   "koregaon park",
+   "kp",
+   "north main road",
+   "osho"
+  ]
+ },
+ {
+  "id": "aundh",
+  "n": "Aundh",
+  "full": "Aundh (ITI Road)",
+  "t": "Neighbourhood",
+  "lat": 18.55537,
+  "lng": 73.80926,
+  "a": [
+   "aundh",
+   "iti road"
+  ]
+ },
+ {
+  "id": "baner",
+  "n": "Baner",
+  "full": "Baner Road",
+  "t": "Neighbourhood",
+  "lat": 18.5581,
+  "lng": 73.79266,
+  "a": [
+   "baner",
+   "baner road"
+  ]
+ },
+ {
+  "id": "wakad",
+  "n": "Wakad",
+  "full": "Wakad",
+  "t": "Neighbourhood",
+  "lat": 18.60109,
+  "lng": 73.76412,
+  "a": [
+   "wakad"
+  ]
+ },
+ {
+  "id": "pimplesaudagar",
+  "n": "Pimple Saudagar",
+  "full": "Pimple Saudagar",
+  "t": "Neighbourhood",
+  "lat": 18.59868,
+  "lng": 73.79783,
+  "a": [
+   "pimple saudagar",
+   "pimple"
+  ]
+ },
+ {
+  "id": "kharadi",
+  "n": "Kharadi",
+  "full": "Kharadi",
+  "t": "Neighbourhood",
+  "lat": 18.55393,
+  "lng": 73.94763,
+  "a": [
+   "kharadi"
+  ]
+ },
+ {
+  "id": "hadapsar",
+  "n": "Hadapsar",
+  "full": "Hadapsar",
+  "t": "Neighbourhood",
+  "lat": 18.50893,
+  "lng": 73.92591,
+  "a": [
+   "hadapsar"
+  ]
+ },
+ {
+  "id": "katraj",
+  "n": "Katraj",
+  "full": "Katraj Chowk",
+  "t": "Neighbourhood",
+  "lat": 18.44813,
+  "lng": 73.85849,
+  "a": [
+   "katraj"
+  ]
+ },
+ {
+  "id": "kondhwa",
+  "n": "Kondhwa",
+  "full": "Kondhwa",
+  "t": "Neighbourhood",
+  "lat": 18.46951,
+  "lng": 73.88898,
+  "a": [
+   "kondhwa"
+  ]
+ },
+ {
+  "id": "nibm",
+  "n": "NIBM Road",
+  "full": "NIBM Road",
+  "t": "Neighbourhood",
+  "lat": 18.47026,
+  "lng": 73.90018,
+  "a": [
+   "nibm",
+   "nibm road"
+  ]
+ },
+ {
+  "id": "undri",
+  "n": "Undri",
+  "full": "Undri",
+  "t": "Neighbourhood",
+  "lat": 18.45667,
+  "lng": 73.90953,
+  "a": [
+   "undri"
+  ]
+ },
+ {
+  "id": "bavdhan",
+  "n": "Bavdhan",
+  "full": "Bavdhan",
+  "t": "Neighbourhood",
+  "lat": 18.51346,
+  "lng": 73.76986,
+  "a": [
+   "bavdhan"
+  ]
+ },
+ {
+  "id": "sinhagadroad",
+  "n": "Sinhagad Road",
+  "full": "Sinhagad Road",
+  "t": "Neighbourhood",
+  "lat": 18.47333,
+  "lng": 73.82157,
+  "a": [
+   "sinhagad road",
+   "sinhgad road",
+   "anand nagar sinhagad"
+  ]
+ },
+ {
+  "id": "wagholi",
+  "n": "Wagholi",
+  "full": "Wagholi",
+  "t": "Neighbourhood",
+  "lat": 18.58077,
+  "lng": 73.97871,
+  "a": [
+   "wagholi"
+  ]
+ },
+ {
+  "id": "camp",
+  "n": "Camp (MG Road)",
+  "full": "MG Road, Camp",
+  "t": "Neighbourhood",
+  "lat": 18.51393,
+  "lng": 73.8788,
+  "a": [
+   "camp",
+   "mg road",
+   "east street",
+   "cantonment"
+  ]
+ },
+ {
+  "id": "tilakroad",
+  "n": "Tilak Road",
+  "full": "Tilak Road, Sadashiv Peth",
+  "t": "Neighbourhood",
+  "lat": 18.50882,
+  "lng": 73.84884,
+  "a": [
+   "tilak road",
+   "sadashiv peth",
+   "peth"
+  ]
+ },
+ {
+  "id": "warje",
+  "n": "Warje",
+  "full": "Warje",
+  "t": "Neighbourhood",
+  "lat": 18.48647,
+  "lng": 73.79683,
+  "a": [
+   "warje"
+  ]
+ },
+ {
+  "id": "nigdi",
+  "n": "Nigdi",
+  "full": "Nigdi",
+  "t": "Neighbourhood",
+  "lat": 18.64917,
+  "lng": 73.77065,
+  "a": [
+   "nigdi",
+   "pradhikaran",
+   "akurdi"
+  ]
+ },
+ {
+  "id": "chinchwad",
+  "n": "Chinchwad",
+  "full": "Pimpri-Chinchwad",
+  "t": "Neighbourhood",
+  "lat": 18.62631,
+  "lng": 73.8055,
+  "a": [
+   "chinchwad",
+   "pcmc",
+   "pimpri"
+  ]
+ },
+ {
+  "id": "pashanroad",
+  "n": "Pashan–Sus Road",
+  "full": "Sus–Pashan Road",
+  "t": "Neighbourhood",
+  "lat": 18.54541,
+  "lng": 73.77784,
+  "a": [
+   "sus road",
+   "pashan sus"
+  ]
+ },
+ {
+  "id": "kothrud",
+  "n": "Kothrud",
+  "full": "Kothrud",
+  "t": "Neighbourhood",
+  "lat": 18.5074,
+  "lng": 73.8077,
+  "a": [
+   "kothrud",
+   "karve road"
+  ]
+ },
+ {
+  "id": "vimannagar",
+  "n": "Viman Nagar",
+  "full": "Viman Nagar",
+  "t": "Neighbourhood",
+  "lat": 18.565,
+  "lng": 73.91421,
+  "a": [
+   "viman nagar",
+   "vimannagar"
+  ]
+ },
+ {
+  "id": "kalyaninagar",
+  "n": "Kalyani Nagar",
+  "full": "Kalyani Nagar",
+  "t": "Neighbourhood",
+  "lat": 18.54807,
+  "lng": 73.90483,
+  "a": [
+   "kalyani nagar"
+  ]
+ },
+ {
+  "id": "fcroad",
+  "n": "FC Road & Deccan",
+  "full": "Fergusson College Road",
+  "t": "Hangout",
+  "lat": 18.51712,
+  "lng": 73.84095,
+  "a": [
+   "fc road",
+   "deccan",
+   "jm road"
+  ]
+ }
+]

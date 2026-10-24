@@ -19,8 +19,6 @@ They were resized for the web; otherwise they are unchanged. Keep the credit if 
 | `img/building-of-raja-dinkar-kelkar-museum-pu.jpg` | DesiBoy101 | CC BY 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Building_of_Raja_Dinkar_Kelkar_Museum,_Pune.jpg) |
 | `img/mahatma-phule-mandai-in-pune.jpg` | DesiBoy101 | CC BY-SA 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mahatma_Phule_Mandai_in_Pune.jpg) |
 | `img/lal-mahal-illuminated.jpg` | DesiBoy101 | CC BY 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lal_Mahal_illuminated.jpg) |
-| `img/misal-pav-a-maharashtrian-snack.jpg` | Arundhati1312 | CC BY-SA 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Misal_Pav,_a_Maharashtrian_snack.JPG) |
-| `img/crunchy-crispy-vada-pav.jpg` | Sharvarism | CC BY-SA 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crunchy_Crispy_Vada_pav.jpg) |
 | `img/full-view-of-phoenix-marketcity-complex-.jpg` | DesiBoy101 | CC BY 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Full_view_of_Phoenix_Marketcity_Complex_in_Pune.jpg) |
 | `img/sarasbaug-pune.jpg` | Pakshya | CC BY-SA 3.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sarasbaug,Pune.jpg) |
 | `img/bund-garden-metro-station.jpg` | DesiBoy101 | CC BY 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bund_Garden_metro_station.jpg) |
@@ -28,7 +26,7 @@ They were resized for the web; otherwise they are unchanged. Keep the credit if 
 
 ## Place data
 
-Place names, ratings, review counts, price levels, opening hours and coordinates were collected from Google Maps in October 2026 for this prototype. Ratings and hours change, so check before you visit.
+Place names, ratings, review counts, price levels, opening hours and coordinates for 826 places (around 28 metro stations and 55 major Pune locations) were collected from Google Maps in October 2026 for this prototype. Ratings and hours change, so check before you visit.
 
 ## Bus data
 
