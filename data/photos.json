@@ -1,5 +1,12 @@
 [
   {
+    "file": "img/pune-skyline-sunset.jpg",
+    "title": "Pune skyline at sunset (hero)",
+    "author": "Supplied by the CityCommute team",
+    "license": "Team-supplied; confirm usage rights",
+    "source": ""
+  },
+  {
     "file": "img/shaniwar-wada-pune.jpg",
     "title": "Shaniwar wada (pune)",
     "author": "Samrudhi shelagaonkar",
@@ -89,13 +96,6 @@
     "author": "Sharvarism",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Crunchy_Crispy_Vada_pav.jpg"
-  },
-  {
-    "file": "img/skyline-of-pune-from-a-hill.jpg",
-    "title": "Skyline of Pune from a hill",
-    "author": "Meghavbafana",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_Pune_from_a_hill.jpg"
   },
   {
     "file": "img/full-view-of-phoenix-marketcity-complex-.jpg",

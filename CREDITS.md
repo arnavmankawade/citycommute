@@ -7,6 +7,7 @@ They were resized for the web; otherwise they are unchanged. Keep the credit if 
 
 | File | Author | Licence | Source |
 |---|---|---|---|
+| `img/pune-skyline-sunset.jpg` | Supplied by the CityCommute team | Confirm usage rights | – |
 | `img/shaniwar-wada-pune.jpg` | Samrudhi shelagaonkar | CC BY-SA 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shaniwar_wada_(pune).jpg) |
 | `img/dagdusheth-halwai-ganpati-2025.jpg` | Sreedit | CC0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dagdusheth_Halwai_Ganpati_2025.jpg) |
 | `img/aga-khan-palace-9.jpg` | Rangan Datta Wiki | CC BY-SA 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aga_Khan_Palace_9.jpg) |
@@ -20,7 +21,6 @@ They were resized for the web; otherwise they are unchanged. Keep the credit if 
 | `img/lal-mahal-illuminated.jpg` | DesiBoy101 | CC BY 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lal_Mahal_illuminated.jpg) |
 | `img/misal-pav-a-maharashtrian-snack.jpg` | Arundhati1312 | CC BY-SA 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Misal_Pav,_a_Maharashtrian_snack.JPG) |
 | `img/crunchy-crispy-vada-pav.jpg` | Sharvarism | CC BY-SA 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crunchy_Crispy_Vada_pav.jpg) |
-| `img/skyline-of-pune-from-a-hill.jpg` | Meghavbafana | CC BY-SA 3.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Skyline_of_Pune_from_a_hill.jpg) |
 | `img/full-view-of-phoenix-marketcity-complex-.jpg` | DesiBoy101 | CC BY 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Full_view_of_Phoenix_Marketcity_Complex_in_Pune.jpg) |
 | `img/sarasbaug-pune.jpg` | Pakshya | CC BY-SA 3.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sarasbaug,Pune.jpg) |
 | `img/bund-garden-metro-station.jpg` | DesiBoy101 | CC BY 4.0 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bund_Garden_metro_station.jpg) |
@@ -29,6 +29,13 @@ They were resized for the web; otherwise they are unchanged. Keep the credit if 
 ## Place data
 
 Place names, ratings, review counts, price levels, opening hours and coordinates were collected from Google Maps in October 2026 for this prototype. Ratings and hours change, so check before you visit.
+
+## Bus data
+
+- PMPML routes 114, 133, 149, 177, 180, 199, 205 and 348 (stops, first and last buses, frequencies): published route pages on [Housing.com](https://housing.com/news/pune-199-bus-route-from-kothrud-depot-to-hadapsar-gadital). Each route in `data/bus.json` links to its source page.
+- Metro feeder shuttles: [Pune Metro Feeder Bus Services timetable, Purple Line](https://www.punemetrorail.org/download/Pune_Metro_PurpleLine.pdf).
+- Swargate feeder changes from 11 Oct 2024: [Punekar News](https://www.punekarnews.in/pune-pmpml-discontinues-bus-routes-to-swargate-metro-station-for-more-frequent-services/).
+- Next-departure times in the app are estimated from first bus + frequency. Live times are in the PMPML app.
 
 ## Metro and bus facts
 

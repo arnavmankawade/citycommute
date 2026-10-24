@@ -13,7 +13,8 @@ CityCommute is a civic and community web app built for the OpenAI Metro Hackatho
 - **Postcards** of 12 landmarks, each linked to its nearest station.
 - **Journey planner** comparing metro, PMPML bus, auto, cab and walking by time, cost and comfort.
 - **Metro ticket booking (prototype).** Fares with student and weekend discounts, and sample tickets saved in the browser. These tickets are not valid for travel.
-- **PMPML bus** fare finder, passes and metro–bus connections.
+- **PMPML buses:** 8 major routes with every stop in order, first and last buses, frequency, estimated next departures and the metro stations on the way, plus Pune Metro's 11 feeder shuttles. The planner names a direct bus when one links two stations.
+- **PMPML fares** finder and passes.
 - **Newcomer guide** with hours, fares, discounts and lines under construction.
 - Works on phones, supports dark mode and respects reduced-motion settings.
 
@@ -42,6 +43,7 @@ python3 -m http.server 8000
 index.html          the app (styles, scripts and embedded place data)
 img/                landmark, food and metro photos (Wikimedia Commons)
 data/places.json    the 305 places, each linked to its nearest station
+data/bus.json       PMPML routes and metro feeder shuttles
 data/photos.json    photo authors, licences and sources
 CREDITS.md          photo credits and data sources
 ```
